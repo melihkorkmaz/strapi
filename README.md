@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Melih Korkmaz
+Melih Korkmaz 2
 
 <h3 align="center">Open-source headless CMS, self-hosted or Cloud you’re in control.</h3>
 <p align="center">The leading open-source headless CMS, 100% JavaScript/TypeScript, flexible and fully customizable.</p>
