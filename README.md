@@ -1,4 +1,5 @@
 <p align="center">
+
   <a href="https://strapi.io/#gh-light-mode-only">
     <img src="https://strapi.io/assets/strapi-logo-dark.svg" width="318px" alt="Strapi logo" />
   </a>
@@ -6,6 +7,8 @@
     <img src="https://strapi.io/assets/strapi-logo-light.svg" width="318px" alt="Strapi logo" />
   </a>
 </p>
+
+Melih Korkmaz
 
 <h3 align="center">Open-source headless CMS, self-hosted or Cloud you’re in control.</h3>
 <p align="center">The leading open-source headless CMS, 100% JavaScript/TypeScript, flexible and fully customizable.</p>
